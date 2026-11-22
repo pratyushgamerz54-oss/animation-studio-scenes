@@ -1,0 +1,5 @@
+__pycache__/
+*.blend1
+# final masters: Director's PC / Drive (size) — previews stay in git
+05_post/final/
+**/renders_4k/
